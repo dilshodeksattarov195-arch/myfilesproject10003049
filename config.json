@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheeync",
+        "uuid": 12674693,
+        "checksum": "0eqrlu"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
